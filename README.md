@@ -1,1 +1,3 @@
-# mavenproject
+# maven-project
+
+Simple Maven Project
